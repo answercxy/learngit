@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 学习git 无数次，每次都学到中途失败了，这次遇到这个教程真是lucky，many tks
+=======
+学习git 无数次，每次都学到中途失败了，这次遇到这个教程真是lucky，many tks
+>>>>>>> a37cce35965285edfad6105a5da5c72265e9b4ad

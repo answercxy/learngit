@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 I don`t know what can I say, but your git course is very helpful for me.
 Find a good teacher or some good course is very difficult in school.
 Forget to say, I am a university student of grade 4.
 So, It is luck to find your courses, and I will keep attention to your other courses.
 Thanks again.
+=======
+I don`t know what can I say, but your git course is very helpful for me.
+Find a good teacher or some good course is very difficult in school.
+Forget to say, I am a university student of grade 4.
+So, It is luck to find your courses, and I will keep attention to your other courses.
+Thanks again.
+>>>>>>> a37cce35965285edfad6105a5da5c72265e9b4ad

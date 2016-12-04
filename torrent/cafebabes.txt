@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "love me, love my code !"
+=======
+"love me, love my code !"
+>>>>>>> a37cce35965285edfad6105a5da5c72265e9b4ad

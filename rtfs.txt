@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Great work mickael. Your tutorial helps me a lot.
+=======
+Great work mickael. Your tutorial helps me a lot.
+>>>>>>> a37cce35965285edfad6105a5da5c72265e9b4ad

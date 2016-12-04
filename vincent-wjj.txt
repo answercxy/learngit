@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 As for a work,I study you toturial! Thanks a lot for these wonderful feeds!
+=======
+As for a work,I study you toturial! Thanks a lot for these wonderful feeds!
+>>>>>>> a37cce35965285edfad6105a5da5c72265e9b4ad
